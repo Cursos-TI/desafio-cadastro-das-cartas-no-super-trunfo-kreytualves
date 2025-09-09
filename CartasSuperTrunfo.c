@@ -59,6 +59,8 @@ int main() {
     printf("Digite quantos pontos turisticos: ");
     scanf("%d", &pontosturisticos2);
 
+    printf("Cartas Super Trunfo \n");
+
     printf("\nCarta 1\n");
     printf("Estado: %s\n", estado1);
     printf("Codigo: %s\n", codigo1);
